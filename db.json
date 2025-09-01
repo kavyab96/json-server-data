@@ -37,7 +37,7 @@
       "type": "non-veg",
       "price": 400,
       "rating": 3.3,
-      "image": "images/fish.webp",
+      "image": "https://media.istockphoto.com/id/980462170/photo/roasted-sea-food.webp?a=1&b=1&s=612x612&w=0&k=20&c=1DdnfMf97WbvH-h3l445ifbZOsU4bH-nJ2Lx5kjWvkk=",
       "description": "Fresh fish grilled with spices and lemon."
     },
     {
@@ -57,7 +57,7 @@
       "type": "non-veg",
       "price": 180,
       "rating": 4.1,
-      "image": "images/shawarma.jpg",
+      "image": "ihttps://media.istockphoto.com/id/171579564/photo/chicken-souvlaki-wrap.webp?a=1&b=1&s=612x612&w=0&k=20&c=PClOgCTeIi8F77XbDK3B5iWVcJo5Pw9Nt7vp-CgpC-w=",
       "description": "Juicy chicken strips wrapped in pita bread with garlic sauce."
     },
     {
@@ -67,7 +67,7 @@
       "type": "non-veg",
       "price": 180,
       "rating": 4,
-      "image": "images/noodles.avif",
+      "image": "https://images.unsplash.com/photo-1645676524836-381f088c4da0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI3fHx8ZW58MHx8fHx8",
       "description": "Juicy chicken strips wrapped in pita bread with garlic sauce."
     },
     {
@@ -77,7 +77,7 @@
       "type": "non-veg",
       "price": 180,
       "rating": 4.3,
-      "image": "images/momos.avif",
+      "image": "https://media.istockphoto.com/id/1748107051/photo/veg-steamed-momo-nepalese-traditional-dish-momo-stuffed-with-vegetables-and-then-cooked-and.webp?a=1&b=1&s=612x612&w=0&k=20&c=zs9jYhHHgYAkqHFFOxWxCLG5Pn_N_2u6ap5IFoTYr4s=",
       "description": "Juicy chicken strips wrapped in pita bread with garlic sauce."
     }
    
