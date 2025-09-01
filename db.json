@@ -7,7 +7,7 @@
       "type": "veg",
       "price": 220,
       "rating": 4.3,
-      "image": "images/pizza.jpg",
+      "image": "https://media.istockphoto.com/id/1414575281/photo/a-delicious-and-tasty-italian-pizza-margherita-with-tomatoes-and-buffalo-mozzarella.webp?a=1&b=1&s=612x612&w=0&k=20&c=qO_TA5oZTY4d1e14l6noMYmAB26sSoE8L0m_VYl2bcU=",
       "description": "Classic cheese pizza with fresh mozzarella and basil."
     },
     {
@@ -17,7 +17,7 @@
       "type": "non-veg",
       "price": 350,
       "rating": 4.5,
-      "image": "images/chicken biriyani.jpg",
+      "image": "https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.webp?a=1&b=1&s=612x612&w=0&k=20&c=a8j_p9BkWtsSX7WkcqeetigH8PYWXGayIGto9GiehNY=",
       "description": "Aromatic basmati rice cooked with tender chicken and spices."
     },
     {
