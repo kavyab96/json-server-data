@@ -7,7 +7,7 @@
       "type": "veg",
       "price": 220,
       "rating": 4.3,
-      "image": "/images/pizza.jpg",
+      "image": "images/pizza.jpg",
       "description": "Classic cheese pizza with fresh mozzarella and basil."
     },
     {
@@ -17,7 +17,7 @@
       "type": "non-veg",
       "price": 350,
       "rating": 4.5,
-      "image": "/images/chicken biriyani.jpg",
+      "image": "images/chicken biriyani.jpg",
       "description": "Aromatic basmati rice cooked with tender chicken and spices."
     },
     {
@@ -37,7 +37,7 @@
       "type": "non-veg",
       "price": 400,
       "rating": 3.3,
-      "image": "/images/fish.webp",
+      "image": "images/fish.webp",
       "description": "Fresh fish grilled with spices and lemon."
     },
     {
@@ -57,7 +57,7 @@
       "type": "non-veg",
       "price": 180,
       "rating": 4.1,
-      "image": "/images/shawarma.jpg",
+      "image": "images/shawarma.jpg",
       "description": "Juicy chicken strips wrapped in pita bread with garlic sauce."
     },
     {
@@ -67,7 +67,7 @@
       "type": "non-veg",
       "price": 180,
       "rating": 4,
-      "image": "/images/noodles.avif",
+      "image": "images/noodles.avif",
       "description": "Juicy chicken strips wrapped in pita bread with garlic sauce."
     },
     {
@@ -77,7 +77,7 @@
       "type": "non-veg",
       "price": 180,
       "rating": 4.3,
-      "image": "/images/momos.avif",
+      "image": "images/momos.avif",
       "description": "Juicy chicken strips wrapped in pita bread with garlic sauce."
     }
    
